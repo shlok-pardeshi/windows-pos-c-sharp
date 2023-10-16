@@ -1,0 +1,35 @@
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\bin\Release\RestPOS.exe.config
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\HomeStatusBar.baml
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\HomeToolbar.baml
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\Items\Kitchen Display.baml
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\MainWindow.baml
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\Reports\SalesReportsDetails.baml
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\Sales_Register\Payment.baml
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\Sales_Register\SalesRegister.baml
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\Home.g.cs
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\HomeStatusBar.g.cs
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\HomeToolbar.g.cs
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\Items\Kitchen Display.g.cs
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\Items\Stock_List.g.cs
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\MainWindow.g.cs
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\Reports\SalesReportsDetails.g.cs
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\Sales_Register\Payment.g.cs
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\Sales_Register\SalesRegister.g.cs
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\UserControl1.g.cs
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\User_mgt\StockShortList.g.cs
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\App.g.cs
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\RestPOS_MarkupCompile.cache
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\RestPOS_MarkupCompile.lref
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\bin\Release\RestPOS.exe
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\bin\Release\RestPOS.pdb
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\RestPOS.csprojResolveAssemblyReference.cache
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\Home.baml
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\Items\Stock_List.baml
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\UserControl1.baml
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\User_mgt\StockShortList.baml
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\RestPOS.g.resources
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\RestPOS.Properties.Resources.resources
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\RestPOS.csproj.GenerateResource.Cache
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\RestPOS.exe
+E:\Data_laptop_1\D_drive\G_Drive\Files_1\dotproject\Web\Codecany_project\RestPOS\RestPOS\obj\Release\RestPOS.pdb

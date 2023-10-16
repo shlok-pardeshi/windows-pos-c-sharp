@@ -1,0 +1,20 @@
+﻿RestPOS
+
+
+winexe
+C#
+.cs
+D:\Dev\windows\restaurant-point-of-sale-rest-pos-c-wpf-sql-server\windows-pos-c-sharp\RestPOS\obj\Debug\
+RestPOS
+none
+false
+DEBUG;TRACE
+D:\Dev\windows\restaurant-point-of-sale-rest-pos-c-wpf-sql-server\windows-pos-c-sharp\RestPOS\App.xaml
+351208470227
+
+42455604669
+19-1766031056
+Customer\CustomerList.xaml;Help\HelpIndex.xaml;Home.xaml;HomeStatusBar.xaml;HomeToolbar.xaml;Items\Sauceoptions.xaml;Items\Category.xaml;Items\Import_Items.xaml;Items\Items_Alert.xaml;Items\Kitchen Display.xaml;Items\Stock_List.xaml;Login.xaml;Notifications\ButtonStyle.xaml;Notifications\DesignTimeNotificationData.xaml;Notifications\GrowlNotifiactions.xaml;Reports\DueReceive.xaml;Reports\DueReport.xaml;Reports\SalesReportsDetails.xaml;Reports\ReturnedReports.xaml;Reports\TopSales.xaml;Sales_Register\CurrencyShortcuts.xaml;Sales_Register\InvoiceView.xaml;Sales_Register\PrintTicket.xaml;Sales_Register\ReceiptPrint.xaml;Sales_Register\Return_product.xaml;Sales_Register\SalesRegister.xaml;Sales_Register\SalesRegisterPink.xaml;Settings\Config.xaml;Settings\DataManager.xaml;Settings\TableZone.xaml;SplashScreen.xaml;Themes\Generic.xaml;UserControl1.xaml;User_mgt\User_list.xaml;User_mgt\WorkRecords.xaml;
+
+True
+
